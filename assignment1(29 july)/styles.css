@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+}
+.sector1{
+    background-color: aqua;color:blueviolet;
+}
+.fsf{
+    margin-left: 40px;
+}
+.sector2{
+    background-color: blanchedalmond;color:rgb(152, 3, 3);
+}
+.ghg{
+    margin-left: 40px;
+}
+header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
